@@ -1,0 +1,15 @@
+C:\Users\Yasin\source\repos\parametreler\parametreler\bin\Debug\net6.0\parametreler.exe
+C:\Users\Yasin\source\repos\parametreler\parametreler\bin\Debug\net6.0\parametreler.deps.json
+C:\Users\Yasin\source\repos\parametreler\parametreler\bin\Debug\net6.0\parametreler.runtimeconfig.json
+C:\Users\Yasin\source\repos\parametreler\parametreler\bin\Debug\net6.0\parametreler.dll
+C:\Users\Yasin\source\repos\parametreler\parametreler\bin\Debug\net6.0\parametreler.pdb
+C:\Users\Yasin\source\repos\parametreler\parametreler\obj\Debug\net6.0\parametreler.csproj.AssemblyReference.cache
+C:\Users\Yasin\source\repos\parametreler\parametreler\obj\Debug\net6.0\parametreler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yasin\source\repos\parametreler\parametreler\obj\Debug\net6.0\parametreler.AssemblyInfoInputs.cache
+C:\Users\Yasin\source\repos\parametreler\parametreler\obj\Debug\net6.0\parametreler.AssemblyInfo.cs
+C:\Users\Yasin\source\repos\parametreler\parametreler\obj\Debug\net6.0\parametreler.csproj.CoreCompileInputs.cache
+C:\Users\Yasin\source\repos\parametreler\parametreler\obj\Debug\net6.0\parametreler.dll
+C:\Users\Yasin\source\repos\parametreler\parametreler\obj\Debug\net6.0\refint\parametreler.dll
+C:\Users\Yasin\source\repos\parametreler\parametreler\obj\Debug\net6.0\parametreler.pdb
+C:\Users\Yasin\source\repos\parametreler\parametreler\obj\Debug\net6.0\parametreler.genruntimeconfig.cache
+C:\Users\Yasin\source\repos\parametreler\parametreler\obj\Debug\net6.0\ref\parametreler.dll
